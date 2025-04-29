@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "strawberry",
+      "image": "https://cdn.mos.cms.futurecdn.net/gsyHgga9RwgXSVBPujwmmg-1200-80.jpg",
+      "price": 11,
+      "id": 8
     }
   ]
 }
